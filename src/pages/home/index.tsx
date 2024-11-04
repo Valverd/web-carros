@@ -20,7 +20,7 @@ export default function Home() {
         <h1 className="font-bold text-center mt-6 mb-4 text-2xl">Carros novos e usados em todo o Brasil</h1>
 
         <main className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
-          <section className="w-full bg-white rounded-lg cursor-pointer transition-all hover:scale-personalized">
+          <section className="w-full bg-white rounded-lg cursor-pointer transition-all shadow-personalized hover:scale-personalized">
             <img
               src="https://image.webmotors.com.br/_fotos/anunciousados/gigante/2024/202409/20240927/byd-king-1.5-dmi-phev-gs-automatico-wmimagem15160080678.jpg?s=fill&w=552&h=414&q=60"
               alt="Carro"
