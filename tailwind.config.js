@@ -6,7 +6,10 @@ export default {
   ],
   theme: {
     boxShadow: {
-      personalized: '0 0 5px #999'
+      personalized: '0 0 10px #ccc'
+    },
+    scale: {
+      personalized: '1.02'
     },
     extend: {},
   },
