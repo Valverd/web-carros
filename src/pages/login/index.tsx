@@ -60,7 +60,7 @@ export default function Login() {
               />
             </div>
 
-            <button>Acessar</button>
+            <button className="w-full bg-zinc-900 rounded-md text-white font-medium py-2">Acessar</button>
           </form>
         </div>
       </Container>

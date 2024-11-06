@@ -26,7 +26,7 @@ export default function Input({
         {...register(name, rules)}
         id={name}
       />
-      {error && <p>{error}</p>}
+      {error && <p className="text-red-400">{error}</p>}
 
     </>
   );
